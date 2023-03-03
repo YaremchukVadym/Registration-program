@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.yaremchuk</groupId>
-    <artifactId>thymeleaf-springboot-tutorial</artifactId>
+    <artifactId>thymeleaf-springboot</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>thymeleaf-springboot-tutorial</name>
     <description>thymeleaf-springboot-tutorial</description>
